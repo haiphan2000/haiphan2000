@@ -6,10 +6,10 @@
 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘖𝘗𝘛𝘐𝘔𝘐𝘡𝘐𝘕𝘎 𝘸𝘰𝘳𝘬 𝘱𝘳𝘰𝘤𝘦𝘴𝘴𝘦𝘴 𝘵𝘰 𝘮𝘪𝘯𝘪𝘮𝘪𝘻𝘦 𝘵𝘪𝘮𝘦 𝘧𝘰𝘳 𝘮𝘢𝘯𝘶𝘢𝘭 𝘰𝘳 𝘳𝘦𝘱𝘦𝘵𝘪𝘵𝘪𝘷𝘦 𝘵𝘢𝘴𝘬𝘴 𝘢𝘯𝘥 𝘮𝘢𝘹𝘪𝘮𝘪𝘻𝘦 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘤𝘺.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/24112000">
+<a href="https://www.linkedin.com/in/haiphan24112000">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="mailto:mr.jeffrey.chiu@gmail.com">
+<a href="mailto:phanthanhhai2411@gmail.com">
 <img src="https://img.shields.io/badge/email%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 <a href="https://github.com/haiphan2000">
@@ -47,7 +47,7 @@
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
+          <a href="https://github.com/haiphan2000">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiphan2000&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Hai Phan's Language Stats" vertical-align="middle"/>
           </a>
         </div>
@@ -55,7 +55,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/haiphan2000">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/haiphan2000?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/haiphan2000?cardType=github&theme=github" alt="Hai Phan's GitHub Stats" /> -->
             <img src="https://github-readme-stats.vercel.app/api?username=haiphan2000&show_icons=true&hide=stars&hide_border=true" alt="Hai Phan's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
