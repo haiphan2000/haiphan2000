@@ -1,10 +1,9 @@
 <img src="./banner.png" alt="name banner" />
 
-## About Me
-A potential graduate is looking for jobs related to DATA fields or QUALITY engineer if possible - "EMPOWER MY POTENTIAL, UNLOCK THE DOOR TO MUTUAL SUCCESS".
+### 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+𝘈 𝘱𝘰𝘵𝘦𝘯𝘵𝘪𝘢𝘭 𝘨𝘳𝘢𝘥𝘶𝘢𝘵𝘦 𝘪𝘴 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘫𝘰𝘣𝘴 𝘳𝘦𝘭𝘢𝘵𝘦𝘥 𝘵𝘰 𝘋𝘈𝘛𝘈 𝘧𝘪𝘦𝘭𝘥𝘴 𝘰𝘳 𝘘𝘜𝘈𝘓𝘐𝘛𝘠 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘪𝘧 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 - "𝘌𝘔𝘗𝘖𝘞𝘌𝘙 𝘔𝘠 𝘗𝘖𝘛𝘌𝘕𝘛𝘐𝘈𝘓, 𝘜𝘕𝘓𝘖𝘊𝘒 𝘛𝘏𝘌 𝘋𝘖𝘖𝘙 𝘛𝘖 𝘔𝘜𝘛𝘜𝘈𝘓 𝘚𝘜𝘊𝘊𝘌𝘚𝘚".
 
-I enjoy OPTIMIZING work processes to minimize time for manual or repetitive tasks and maximize efficiency. 
-I would like to BROADEN my experiences proactively by learning new things, such as languages, technologies, and personal development skills.
+𝘐 𝘦𝘯𝘫𝘰𝘺 𝘖𝘗𝘛𝘐𝘔𝘐𝘡𝘐𝘕𝘎 𝘸𝘰𝘳𝘬 𝘱𝘳𝘰𝘤𝘦𝘴𝘴𝘦𝘴 𝘵𝘰 𝘮𝘪𝘯𝘪𝘮𝘪𝘻𝘦 𝘵𝘪𝘮𝘦 𝘧𝘰𝘳 𝘮𝘢𝘯𝘶𝘢𝘭 𝘰𝘳 𝘳𝘦𝘱𝘦𝘵𝘪𝘵𝘪𝘷𝘦 𝘵𝘢𝘴𝘬𝘴 𝘢𝘯𝘥 𝘮𝘢𝘹𝘪𝘮𝘪𝘻𝘦 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘤𝘺.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/24112000">
@@ -18,7 +17,7 @@ I would like to BROADEN my experiences proactively by learning new things, such 
 </a>
 </div>
 
-## Languages, Tools, and Skills 🛠
+### 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦, 𝗧𝗢𝗢𝗟𝗦, 𝗔𝗡𝗗 𝗦𝗞𝗜𝗟𝗟𝗦 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -41,7 +40,7 @@ I would like to BROADEN my experiences proactively by learning new things, such 
 <img src="https://img.shields.io/badge/terminal%20commands-%234D4D4D.svg?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 </div>
 
-## GitHub Stats 📈
+### 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 📈
 <div align="center">
   <table width="100%">
     <tbody>
