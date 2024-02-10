@@ -1,6 +1,11 @@
 <img src="./banner.png" alt="name banner" />
 
 ## About Me
+A potential graduate is looking for jobs related to DATA fields or QUALITY engineer if possible - "EMPOWER MY POTENTIAL, UNLOCK THE DOOR TO MUTUAL SUCCESS".
+
+I enjoy OPTIMIZING work processes to minimize time for manual or repetitive tasks and maximize efficiency. 
+I would like to BROADEN my experiences proactively by learning new things, such as languages, technologies, and personal development skills.
+
 <div align="center">
 <a href="https://www.linkedin.com/in/24112000">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
