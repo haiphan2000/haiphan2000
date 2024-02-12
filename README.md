@@ -18,7 +18,7 @@
 </div>
 
 ### 𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬 𝗦𝗧𝗨𝗗𝗬𝗜𝗡𝗚 𝗢𝗡
-[![uit](https://svg.bookmark.style/api?url=https://www.zara.com/&mode=light&style=horizontal)](https://www.zara.com/)
+[![uit](https://svg.bookmark.style/api?url=https://uit.edu.vn/&mode=light&style=horizontal)](https://uit.edu.vn)
 
 ### 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦, 𝗧𝗢𝗢𝗟𝗦, 𝗔𝗡𝗗 𝗦𝗞𝗜𝗟𝗟𝗦 🛠
 <div align="center">
