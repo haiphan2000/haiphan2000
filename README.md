@@ -5,7 +5,7 @@
 
 𝑀𝑦 𝑗𝑜𝑢𝑟𝑛𝑒𝑦 𝑖𝑛𝑡𝑜 𝑑𝑎𝑡𝑎 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑏𝑒𝑔𝑎𝑛 𝑤𝑖𝑡ℎ 𝑎 𝑠𝑖𝑚𝑝𝑙𝑒 𝑐𝑢𝑟𝑖𝑜𝑠𝑖𝑡𝑦 - ℎ𝑜𝑤 𝑑𝑜𝑒𝑠 𝑟𝑎𝑤 𝑑𝑎𝑡𝑎 𝑡𝑟𝑎𝑛𝑠𝑓𝑜𝑟𝑚 𝑖𝑛𝑡𝑜 𝑚𝑒𝑎𝑛𝑖𝑛𝑔𝑓𝑢𝑙 𝑖𝑛𝑠𝑖𝑔ℎ𝑡𝑠? 𝑂𝑣𝑒𝑟 𝑡𝑖𝑚𝑒, 𝑡ℎ𝑖𝑠 𝑐𝑢𝑟𝑖𝑜𝑠𝑖𝑡𝑦 𝑒𝑣𝑜𝑙𝑣𝑒𝑑 𝑖𝑛𝑡𝑜 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛 𝑓𝑜𝑟 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 𝑑𝑎𝑡𝑎 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 & 𝑡𝑎𝑐𝑘𝑙𝑖𝑛𝑔 𝑐𝑜𝑚𝑝𝑙𝑒𝑥 𝑑𝑎𝑡𝑎 𝑝𝑖𝑝𝑒𝑙𝑖𝑛𝑒 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠.
 
-:rocket: 𝗠𝗬 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗬.
+### :rocket: 𝗠𝗬 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗬.
 
 🧠 **KNOWLEDGE (K).**
 - Strong foundation in **data engineering principles** (ETL pipelines, DB management, workflow orchestration, data modeling & schema design).
@@ -13,35 +13,9 @@
 - **Quantitative & qualitative data analysis** expertise, applying descriptive, diagnostic & predictive analysis techniques for insights.
 
 🛠 **SKILLS (S).**
-<ul style="margin-top: 10px; margin-bottom: 10px;">
-  <li style="margin-top: 10px; margin-bottom: 10px;">
-    <p>
-      <strong>Programming Languages.</strong>
-      Python
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="16" style="vertical-align: middle;">
-      (3+ years),
-      Bash <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="16" style="vertical-align: middle;">
-    </p>
-  </li>
-  <li>
-    <p>
-      <strong>Relational Databases.</strong>
-      SQL Server
-      <img src="https://dbdb.io/media/logos/microsoft-sql-server.svg" height="16" style="vertical-align: middle;" />,
-      MySQL
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1920px-MySQL_logo.svg.png" height="16" alt="MySQL Logo" style="vertical-align: middle;">,
-      PostgreSQL
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="16" style="vertical-align: middle;" />
-      (for querying, optimizing, and managing - 2+ years)
-    </p>
-  </li>
-  <li>
-    <strong>Big Data & Orchestration.</strong> 
-    PySpark <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8KLrz1OYfFRDTNayIdRwdanvCy0_Jk8ajg&s" height="16" style="vertical-align: middle;"> (distributed data processing - 1+ year),  
-    Airflow <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="16" style="vertical-align: middle;"> (workflow automation),  
-    Kafka <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" height="16" style="vertical-align: middle;"> (real-time data streaming - 1+ year)
-  </li>
-</ul>
+- **Programming Languages.** Python (3+ years), Bash.
+- **Relational Databases.** MS SQL Server, MySQL, PostgreSQL (for querying, optimizing, and managing - 2+ years)
+- **Big Data & Orchestration.** PySpark (distributed data processing - 1+ year), Airflow (workflow automation), Kafka (real-time data streaming - 1+ year)
 
 ⚡ **ABILITIES (A).**
 - Assist in designing & implementing **scalable data pipelines** under mentorship.
@@ -49,7 +23,7 @@
 
 📌 **OTHER ATTRIBUTES (O).** Problem-solving, teamwork, adaptability, attention to detail, **specialization & generalization**.
 
-📚 𝗠𝗬 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧
+### 📚 𝗠𝗬 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧
 
 I am passionate about 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 & documenting my learning journey in the data field. I enjoy writing to help others navigate 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 & 𝗰𝗮𝗿𝗲𝗲𝗿 𝗴𝗿𝗼𝘄𝘁𝗵.
 
