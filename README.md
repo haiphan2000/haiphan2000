@@ -11,7 +11,7 @@
 ➤ 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝗮𝘁𝗶𝘃𝗲 & 𝗾𝘂𝗮𝗹𝗶𝘁𝗮𝘁𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 expertise, applying 𝗱𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝘃𝗲, 𝗱𝗶𝗮𝗴𝗻𝗼𝘀𝘁𝗶𝗰 & 𝗽𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝘃𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 techniques for insights.
 🛠 𝑺𝒌𝒊𝒍𝒍𝒔 (𝑺).
 ➤ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴. Python (3+ years), Bash
-➤ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀. SQL Server, MySQL, PostgreSQL (for querying, optimizing, and managing DBs - 2+ years)
+➤ 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀. SQL Server 🏢, MySQL 🐬, PostgreSQL 🐘 (for querying, optimizing, and managing - 2+ years)
 ➤ 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 & 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻. PySpark (distributed data processing - 1+ year), Airflow (workflow automation), Kafka (real-time data streaming - 1+ year)
 ➤ 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻. Excel (basic & advanced functions), PowerPoint (minimalist slides for data storytelling)
 ⚡ 𝑨𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔 (𝑨).
