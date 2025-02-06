@@ -1,30 +1,59 @@
-<img src="./banner.png" alt="name banner" />
+![image](https://github.com/user-attachments/assets/d11738bf-d370-4e6f-9196-32cb8da5cad2)
+
 
 ### 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
 𝑀𝑦 𝑗𝑜𝑢𝑟𝑛𝑒𝑦 𝑖𝑛𝑡𝑜 𝑑𝑎𝑡𝑎 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑏𝑒𝑔𝑎𝑛 𝑤𝑖𝑡ℎ 𝑎 𝑠𝑖𝑚𝑝𝑙𝑒 𝑐𝑢𝑟𝑖𝑜𝑠𝑖𝑡𝑦 - ℎ𝑜𝑤 𝑑𝑜𝑒𝑠 𝑟𝑎𝑤 𝑑𝑎𝑡𝑎 𝑡𝑟𝑎𝑛𝑠𝑓𝑜𝑟𝑚 𝑖𝑛𝑡𝑜 𝑚𝑒𝑎𝑛𝑖𝑛𝑔𝑓𝑢𝑙 𝑖𝑛𝑠𝑖𝑔ℎ𝑡𝑠? 𝑂𝑣𝑒𝑟 𝑡𝑖𝑚𝑒, 𝑡ℎ𝑖𝑠 𝑐𝑢𝑟𝑖𝑜𝑠𝑖𝑡𝑦 𝑒𝑣𝑜𝑙𝑣𝑒𝑑 𝑖𝑛𝑡𝑜 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛 𝑓𝑜𝑟 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 𝑑𝑎𝑡𝑎 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 & 𝑡𝑎𝑐𝑘𝑙𝑖𝑛𝑔 𝑐𝑜𝑚𝑝𝑙𝑒𝑥 𝑑𝑎𝑡𝑎 𝑝𝑖𝑝𝑒𝑙𝑖𝑛𝑒 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠.
 
-🚀 𝗠𝗬 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗬
-🧠 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 (𝑲).
-➤ Strong foundation in 𝗱𝗮𝘁𝗮 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀 (ETL pipelines, DB management, workflow orchestration, data modeling & schema design).
-➤ Knowledge of 𝗱𝗮𝘁𝗮 𝘀𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴 & selecting 𝗰𝗵𝗮𝗿𝘁 𝗺𝗼𝗱𝗲𝗹𝘀 to effectively present insights.
-➤ 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝗮𝘁𝗶𝘃𝗲 & 𝗾𝘂𝗮𝗹𝗶𝘁𝗮𝘁𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 expertise, applying 𝗱𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝘃𝗲, 𝗱𝗶𝗮𝗴𝗻𝗼𝘀𝘁𝗶𝗰 & 𝗽𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝘃𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 techniques for insights.
-🛠 𝑺𝒌𝒊𝒍𝒍𝒔 (𝑺).
-➤ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴. Python (3+ years), Bash
-➤ 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀. SQL Server 🏢, MySQL 🐬, PostgreSQL 🐘 (for querying, optimizing, and managing - 2+ years)
-➤ 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 & 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻. PySpark (distributed data processing - 1+ year), Airflow (workflow automation), Kafka (real-time data streaming - 1+ year)
-➤ 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻. Excel (basic & advanced functions), PowerPoint (minimalist slides for data storytelling)
-⚡ 𝑨𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔 (𝑨).
-➤ 𝗔𝘀𝘀𝗶𝘀𝘁 in designing & implementing 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗱𝗮𝘁𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 under mentorship.
-➤ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 in 𝗱𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴 𝗮𝗻𝗱 𝘁𝗿𝗼𝘂𝗯𝗹𝗲𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴 data workflows to ensure efficiency and reliability.
+:rocket: 𝗠𝗬 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗬.
+
+🧠 **KNOWLEDGE (K).**
+- Strong foundation in **data engineering principles** (ETL pipelines, DB management, workflow orchestration, data modeling & schema design).
+- Knowledge of **data storytelling** & selecting **chart models** to effectively present insights.
+- **Quantitative & qualitative data analysis** expertise, applying descriptive, diagnostic & predictive analysis techniques for insights.
+
+🛠 **SKILLS (S).**
+<ul>
+  <li>
+    <p>
+      <strong>Programming Languages.</strong>
+      Python
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="16" style="vertical-align: middle;">
+      (3+ years),
+      Bash <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="16" style="vertical-align: middle;">
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Relational Databases.</strong>
+      SQL Server
+      <img src="https://dbdb.io/media/logos/microsoft-sql-server.svg" height="16" style="vertical-align: middle;" />,
+      MySQL
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1920px-MySQL_logo.svg.png" height="16" alt="MySQL Logo" style="vertical-align: middle;">,
+      PostgreSQL
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="16" style="vertical-align: middle;" />
+      (for querying, optimizing, and managing - 2+ years)
+    </p>
+  </li>
+  <li>
+    <strong>Big Data & Orchestration.</strong> 
+    PySpark <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8KLrz1OYfFRDTNayIdRwdanvCy0_Jk8ajg&s" height="16" style="vertical-align: middle;"> (distributed data processing - 1+ year),  
+    Airflow <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="16" style="vertical-align: middle;"> (workflow automation),  
+    Kafka <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" height="16" style="vertical-align: middle;"> (real-time data streaming - 1+ year)
+  </li>
+</ul>
+
+⚡ **ABILITIES (A).**
+- Assist in designing & implementing **scalable data pipelines** under mentorship.
+- Support in debugging and troubleshooting data workflows to ensure efficiency and reliability.
 📌 𝑶𝒕𝒉𝒆𝒓 𝑨𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔 (𝑶). Problem-solving, teamwork, adaptability, attention to detail, 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 & 𝗴𝗲𝗻𝗲𝗿𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻.
 
 📚 𝗠𝗬 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧
 I am passionate about 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 & documenting my learning journey in the data field. I enjoy writing to help others navigate 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 & 𝗰𝗮𝗿𝗲𝗲𝗿 𝗴𝗿𝗼𝘄𝘁𝗵.
-𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗪𝗼𝗿𝗸 𝗼𝗻 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻.
-➤ 𝗢𝗻𝗹𝗶𝗻𝗲 𝗔𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁 𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸 𝗥𝗲𝗽𝗼𝗿𝘁 – 𝗗𝗕 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗗𝗘. A PostgreSQL-focused guide with step-by-step solutions for HackerRank DB assessments.
-➤ 𝗣𝗿𝗲𝗽𝗮𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗔𝗽𝗽𝗹𝘆𝗶𝗻𝗴 𝗝𝗼𝗯𝘀. Insights into the hiring pipeline for developers, from writing CV to negotiating an offer.
-➤ 𝗗𝗘 𝗥𝗼𝗮𝗱𝗺𝗮𝗽. A structured Notion guide on what to learn to build a career in DE.
+**Featured Works in LinkedIn.**
+- **Online Assessment HackerRank Report – Database Questions For Data Engineer(ing).** A PostgreSQL-focused guide with step-by-step solutions for HackerRank DB assessments.
+- **Preparation For Applying Jobs.** Insights into the hiring pipeline for developers, from writing CV to negotiating an offer.
+- **Data Engineer Roadmap.** A structured Notion guide on what to learn to build a career in DE.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/haiphan24112000">
